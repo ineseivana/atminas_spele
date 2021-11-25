@@ -1,11 +1,11 @@
 .wrapper
 {
-    background: rgb(173, 166, 166);
+    background: rgb(231, 194, 194);
 }
 h1
 {
 text-align: center;
-background: rgb(161, 144, 120);
+background: rgb(165, 144, 114);
 }
 
 ul
@@ -28,6 +28,6 @@ display:inline-block;
     background: crimson;
     width: 100px;
     height: 100px;
-    border: 1px solid rgb(44, 3, 3);
+    border: 1px solid rgb(161, 140, 140);
 
 }
